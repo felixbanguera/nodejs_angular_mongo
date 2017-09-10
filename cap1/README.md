@@ -14,12 +14,12 @@ With this version I had some trouble installeing Node JS so I had to go to the [
 
 Intallation (The version that was ok for me was):
 
-<sudo curl -sL https://deb.nodesource.com/setup_4.x | sudo -E bash ->
+<sudo curl -sL https://deb.nodesource.com/setup_5.x | sudo -E bash ->
 <sudo apt-get install -y nodejs>
 
 After installing, write the following in console:
 
-<nodejs -v> # => v4.4.2
+<nodejs -v> # => v5.10.0
 <npm -v> # => 2.xxx
 So I update npm to latest version with:
 <sudo npm install -g npm>
