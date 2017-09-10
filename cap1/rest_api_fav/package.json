@@ -1,0 +1,11 @@
+{
+  "name": "rest_api_fav",
+  "version": "1.0.0",
+  "description": "Project to follow Udemy course for restful API ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Felix Banguera",
+  "license": "MIT"
+}
